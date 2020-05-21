@@ -3,7 +3,7 @@
     ViewData["Title"] = "Calcula tu Sueldo";
 }
 
-<h1>@ViewData["Title"]</h1>
+    <h1>@ViewData["Title"]</h1>
     <img src="/images/Blog.jpg" width="100%" height="500em">
         <div class="container">
             <form asp-action="FormularioCreate">
@@ -38,12 +38,13 @@
                 </div>
                 <p></p>
                 <div class="text-center">
-                    <button type="submit" value="Create" class="btn btn-success">Calcular</button>
+                    <input type="submit" value="Calcular" class="btn btn-success">
                 </div>
             </form>
         </div>
-        
 
-<h1 class="text-center">
-    @Html.DisplayFor(mode1 => mode1.mensaje)
-</h1>
+
+<div class="alert alert-success" role="alert">
+  @Html.DisplayFor(mode1 => mode1.mensaje)
+</div>
+
