@@ -1,38 +1,38 @@
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\Tarea progra.exe
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\Tarea progra.deps.json
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\Tarea progra.runtimeconfig.json
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\Tarea progra.runtimeconfig.dev.json
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\Tarea progra.dll
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\Tarea progra.pdb
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\Tarea progra.Views.dll
-C:\Users\axcel\Documents\Tarea progra\bin\Debug\netcoreapp3.1\Tarea progra.Views.pdb
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.csprojAssemblyReference.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.csproj.CoreCompileInputs.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.RazorAssemblyInfo.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.RazorAssemblyInfo.cs
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.AssemblyInfoInputs.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.AssemblyInfo.cs
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.TagHelpers.input.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.TagHelpers.output.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.RazorCoreGenerate.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.RazorTargetAssemblyInfo.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.RazorTargetAssemblyInfo.cs
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.Views.pdb
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\staticwebassets\Tarea progra.StaticWebAssets.Manifest.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\staticwebassets\Tarea progra.StaticWebAssets.xml
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.dll
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.pdb
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.genruntimeconfig.cache
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Tarea progra.csproj.CopyComplete
-C:\Users\axcel\Documents\Tarea progra\obj\Debug\netcoreapp3.1\Razor\Views\Home\Formulario.cshtml.g.cs
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\Tarea progra.exe
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\Tarea progra.deps.json
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\Tarea progra.runtimeconfig.json
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\Tarea progra.runtimeconfig.dev.json
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\Tarea progra.dll
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\Tarea progra.pdb
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\Tarea progra.Views.dll
+C:\Users\axcel\Documents\TareaProgra1\bin\Debug\netcoreapp3.1\Tarea progra.Views.pdb
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.csprojAssemblyReference.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.csproj.CoreCompileInputs.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.RazorAssemblyInfo.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.RazorAssemblyInfo.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.AssemblyInfoInputs.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.AssemblyInfo.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.TagHelpers.input.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.TagHelpers.output.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.RazorCoreGenerate.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Formulario.cshtml.g.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.RazorTargetAssemblyInfo.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.RazorTargetAssemblyInfo.cs
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.Views.pdb
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\staticwebassets\Tarea progra.StaticWebAssets.Manifest.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\staticwebassets\Tarea progra.StaticWebAssets.xml
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.dll
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.pdb
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.genruntimeconfig.cache
+C:\Users\axcel\Documents\TareaProgra1\obj\Debug\netcoreapp3.1\Tarea progra.csproj.CopyComplete

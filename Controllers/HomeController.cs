@@ -34,7 +34,7 @@ namespace Tarea_progra.Controllers
 
         public IActionResult FormularioCreate(Formulario objFormulario){
 
-            objFormulario.resultado = objFormulario.sueldo * objFormulario.meses;
+            objFormulario.resultado = Math.Round((objFormulario.sueldo * objFormulario.meses),2) ;
             objFormulario.mensaje="Hola! tu sueldo luego de "+objFormulario.meses+" meses sera: "+objFormulario.resultado;
             return View("Formulario",objFormulario);
 

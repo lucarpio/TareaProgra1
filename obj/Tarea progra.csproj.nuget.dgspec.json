@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\axcel\\Documents\\Tarea progra\\Tarea progra.csproj": {}
+    "C:\\Users\\axcel\\Documents\\TareaProgra1\\Tarea progra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\axcel\\Documents\\Tarea progra\\Tarea progra.csproj": {
+    "C:\\Users\\axcel\\Documents\\TareaProgra1\\Tarea progra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\axcel\\Documents\\Tarea progra\\Tarea progra.csproj",
+        "projectUniqueName": "C:\\Users\\axcel\\Documents\\TareaProgra1\\Tarea progra.csproj",
         "projectName": "Tarea progra",
-        "projectPath": "C:\\Users\\axcel\\Documents\\Tarea progra\\Tarea progra.csproj",
+        "projectPath": "C:\\Users\\axcel\\Documents\\TareaProgra1\\Tarea progra.csproj",
         "packagesPath": "C:\\Users\\axcel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\axcel\\Documents\\Tarea progra\\obj\\",
+        "outputPath": "C:\\Users\\axcel\\Documents\\TareaProgra1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\axcel\\AppData\\Roaming\\NuGet\\NuGet.Config"
