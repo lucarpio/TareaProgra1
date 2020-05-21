@@ -7,6 +7,21 @@
     <img src="/images/Blog.jpg" width="100%" height="500em">
         <div class="container">
             <form asp-action="FormularioCreate">
+                <label asp-for="Nombre" class="control-label"></label><br>
+                <input asp-for="Nombre" class="form-control" placeholder="Ingrese su nombre" ><br>
+
+                <label asp-for="Apellido" class="control-label" ></label><br>
+                <input asp-for="Apellido" class="form-control" placeholder="Ingrese su apellido" ><br>
+
+                <label asp-for="Email" class="control-label" ></label><br>
+                <input asp-for="Email" class="form-control" placeholder="Ingrese su dirección de correo"><br>
+
+                <label asp-for="DNI" class="control-label" ></label><br>
+                <input asp-for="DNI" class="form-control" placeholder="Ingrese su DNI"><br>
+                
+                <label asp-for="Tel" class="control-label" ></label><br>
+                <input asp-for="Tel" class="form-control" placeholder="Ingrese su teléfono o celular"><br>
+
                 <!--<label asp-for="sueldo" class="control-label">Sueldo</label><br>
                 <input asp-for="sueldo" class="form-control"><br>
                 <label asp-for="meses" class="control-label">Cantidad de meses</label><br>
